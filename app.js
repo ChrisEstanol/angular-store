@@ -11,6 +11,9 @@
       price: 2.95,
       description: '. . .',
       canPurchase: true,
+      images: [
+         'images/gem-01.gif'
+        ]
     },
     {
       name: 'Pentagonal gem',
