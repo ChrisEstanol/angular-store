@@ -12,7 +12,9 @@
       description: '. . .',
       canPurchase: true,
       images: [
-         'images/gem-01.gif'
+         'images/gem-01.gif',
+         'images/gem-02.gif',
+         'images/gem-03.gif'
         ]
     },
     {
